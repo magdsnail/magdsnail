@@ -1,4 +1,4 @@
-### Hi there, I'm magdsnial 👋
+### Hi there, I'm magdsnail 👋
 [![magdsnail's github stats](https://github-readme-stats.vercel.app/api?username=magdsnail&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdsnail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
