@@ -1,5 +1,5 @@
 ### Hi there, I'm magdsnail 👋
-[![magdsnail's github stats](https://github-readme-stats.vercel.app/api?username=magdsnail&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![magdsnail's github stats](https://github-readme-stats.vercel.app/api?username=magdsnail&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdsnail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -14,5 +14,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+
+
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=magdsnail&count_private=true&show_icons=true&hide_border=true&theme=vue)](https://github.com/magdsnail)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdsnail&hide_border=true&theme=vue)](https://github.com/magdsnail)
+
