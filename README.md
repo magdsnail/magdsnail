@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-
-
-
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=magdsnail&count_private=true&show_icons=true&hide_border=true&theme=vue)](https://github.com/magdsnail)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdsnail&hide_border=true&theme=vue)](https://github.com/magdsnail)
 
+# Visitor number
+![Visitor Count](https://profile-counter.glitch.me/magdsnail/count.svg)
