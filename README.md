@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdsnail&hide_border=true&theme=vue)](https://github.com/magdsnail)
 
-<!-- # Visitor number
-![Visitor Count](https://profile-counter.glitch.me/magdsnail/count.svg) -->
+[//]: # Visitor number
+[//]: ![Visitor Count](https://profile-counter.glitch.me/magdsnail/count.svg)
